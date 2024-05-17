@@ -13,4 +13,5 @@
 + Trong mã nguồn được chia sẻ có 2 phần giành cho Arduino và Unity. Bên cạnh đó là 1 file mô tả sơ đồ kết nối mạch điện giữa các linh kiện điện tử cần sử dụng.
 + Các bạn tải mã nguồn về và dùng Arduino Studio để xem và chạy những dòng lệnh giành cho Arduino.
 + Sử dụng Unity để mở prọects đã có sẵn trong thư mục Unity để chạy thử phần trò chơi.
-+ Để biết thêm cách sử dụng dự án này, các bạn có thể theo dõi thêm video trên kênh Khoa Học Vui : https://www.youtube.com/c/KhoaHocVuiVn
++ Để biết thêm cách sử dụng dự án này, các bạn có thể theo dõi thêm video trên kênh Khoa Học Vui : 
+https://www.youtube.com/watch?v=W93gyR3Oa1Q
